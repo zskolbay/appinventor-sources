@@ -6380,6 +6380,10 @@ public interface OdeMessages extends Messages {
   @DefaultMessage("Nederlands")
   @Description("")
   String switchToDutch();
+  
+  @DefaultMessage("Magyar")
+  @Description("")
+  String switchToHungarian();
 
   @DefaultMessage("Progress Bar")
   @Description("")

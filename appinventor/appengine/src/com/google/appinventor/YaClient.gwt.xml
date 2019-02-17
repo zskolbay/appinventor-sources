@@ -131,7 +131,9 @@
   <extend-property name="locale" values="pt"/>
   <!-- Dutch -->
   <extend-property name="locale" values="nl"/>
-
+  <!-- Dutch -->
+  <extend-property name="locale" values="hu"/>
+  
   <set-property-fallback name="locale" value="en"/>
   <collapse-all-properties/>
 
